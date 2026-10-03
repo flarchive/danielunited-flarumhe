@@ -2,13 +2,15 @@
 
 > **Read-only archive of released versions of danielunited/flarumhe.** Not for installation: use [Packagist](https://packagist.org/packages/danielunited/flarumhe) or the [upstream repository](https://github.com/danielunited/flarum-hebrew).
 
-**0** versions archived · Latest: [`1.0.2`](https://github.com/flarchive/danielunited-flarumhe/tree/archive/v1.0.2) · License: `MIT` · Flarum: `^0.1.0-beta.10`
+**3** versions archived · Latest: [`1.0.2`](https://github.com/flarchive/danielunited-flarumhe/tree/archive/v1.0.2) · License: `MIT` · Flarum: `^0.1.0-beta.10`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0` | 2020-09-23 | `^0.1.0-beta.10` | [Browse](https://github.com/flarchive/danielunited-flarumhe/tree/archive/v1.0) |
+| `1.0.1` | 2020-11-13 | `^0.1.0-beta.10` | [Browse](https://github.com/flarchive/danielunited-flarumhe/tree/archive/v1.0.1) |
+| `1.0.2` | 2020-11-13 | `^0.1.0-beta.10` | [Browse](https://github.com/flarchive/danielunited-flarumhe/tree/archive/v1.0.2) |
 
 Catalog entry: [packages/danielunited-flarumhe.json](https://github.com/flarchive/archive-index/blob/main/packages/danielunited-flarumhe.json)
 
